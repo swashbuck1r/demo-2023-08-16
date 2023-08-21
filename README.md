@@ -1,6 +1,6 @@
 # helloworld
 
-Hello World for Golang2
+Hello World for Golang3
 
 ## Simple Command
 
